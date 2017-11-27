@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title> Phillip Jedlovec </title>
+    <!--<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+    </script>-->
+  </head>
+
+<!--<META name="y_key" content="88e94f7c7b1951ae" />-->
+
+<body>
+
+<h2>Home Page for Phillip Jedlovec</h2>
+<hr />
+<p>My main research area is algebraic topology, specifically unstable homotopy theory. I study the truncated Brown-Peterson spectra, their generalizations, and how to use Hopf rings to compute the generalized homology of the spaces in their &Omega;-spectra.&nbsp; I am also interested in areas of intersection between mathematics and economics, such as game theory and social choice theory, and I am deeply passionate about teaching in innovative and effective ways.</p>
+<hr />
+<p style="float: right; margin-bottom: 10px; font-size: 9pt; font-style: italic; text-align: center;"><br /><img style="margin-bottom: 5px;" src="pjjedlovec.jpg" width="160" height="260" /><br />Photo by Benjamin Lewis</p>
+<h3>About Me:</h3>
+<ul>
+<li>Mathematics Ph.D. candidate, University of Notre Dame</li>
+<li>Office: Hayes-Healy 253B</li>
+<li>E-mail: pjedlove@nd.edu</li>
+<li><a href="CV (Phillip Jedlovec).pdf">Curriculum Vitae</a></li>
+</ul>
+<hr />
+<h3>Teaching:</h3>
+<ul>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="Teaching Statement.pdf">Teaching Statement</a></li>
+</ul>
+<hr />
+<h3>Research:</h3>
+<ul>
+  <li> Thesis:  Hopf rings and truncated Brown-Peterson spectra  </li>
+</ul>
+<li>Preliminary <a href="writeup.pdf">write-up</a> of my results</li>
+</ul>
+<li><a href="Research Statement.pdf">Research Statement</a></li>
+</ul>
+<hr />
+<h3>Other Links:</h3>
+<ul>
+<li><a href="http://math.nd.edu">Notre Dame Mathematics Department</a></li>
+<li><a href="https://www3.nd.edu/~mbehren1/">My advisor</a></li>
+</ul>
+</ul>
+<hr />
+<ul><!--\(\LaTeX \) enabled--></ul>
+</body>
+</html>
